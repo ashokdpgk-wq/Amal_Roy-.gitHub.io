@@ -55,6 +55,13 @@ window.aadhaarData = [
     "relationName": "BIMAL CHANDRA ROY",
     "raw": "263456547212",
     "format": "2634-5654-7212"
+  },
+  {
+    "name": "ANANYA MODAK",
+    "relationType": "Husband",
+    "relationName": "AMAL MODAK",
+    "raw": "876498363793",
+    "format": "8764-9836-3793"
   }
 ];
 
