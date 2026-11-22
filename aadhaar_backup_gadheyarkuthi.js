@@ -1,4 +1,4 @@
-window.aadhaarData = [
+const DEFAULT_DATA = [
   {
     "id": "Amtj1ptk11px5g8ywl",
     "name": "RANU ROY",
